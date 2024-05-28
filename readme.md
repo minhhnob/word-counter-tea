@@ -40,3 +40,9 @@ const wordCount = countWords(text);
 console.log('Word count:', wordCount);
 </code>
 </pre>
+
+## API
+
+### countWords(text)
+
+<p>Counts the number of words in a given text.</p>
