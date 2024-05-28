@@ -60,3 +60,6 @@ const { countWords } = require('word-counter-tea');
 
 const text = "OpenAI's ChatGPT is an advanced language model.";
 const wordCount = countWords(text);
+console.log('Word count:', wordCount);  // Output: Word count: 7
+</code>
+</pre>
