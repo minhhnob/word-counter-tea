@@ -51,3 +51,5 @@ console.log('Word count:', wordCount);
   <li><strong>text</strong> (string): The text to count words in.</li>
   <li><strong>Returns</strong>: The number of words in the text.</li>
 </ul>
+
+## Example
