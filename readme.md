@@ -33,3 +33,10 @@ const { countWords } = require('word-counter-tea');
 
 <p>Use the <code>countWords</code> function to count the number of words in a text:</p>
 
+<pre>
+<code>
+const text = "Hello, world! This is a simple word counter example.";
+const wordCount = countWords(text);
+console.log('Word count:', wordCount);
+</code>
+</pre>
