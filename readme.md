@@ -53,3 +53,7 @@ console.log('Word count:', wordCount);
 </ul>
 
 ## Example
+
+<pre>
+<code>
+const { countWords } = require('word-counter-tea');
